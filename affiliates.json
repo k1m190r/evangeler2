@@ -2406,5 +2406,12 @@
         "description": "20% Commission For 1 Year",
         "website": "https://wave.video",
         "keywords": "Video"
+    },
+    {
+        "brand": "Power CM Partners",
+        "imageUrl": "https://partners.powercm-software.com/partners-hero.webp",
+        "description": "20% Per One-Time Sale Or 25% Of Subscriptions For 12 Months",
+        "website": "https://partners.powercm-software.com/",
+        "keywords": "SaaS, Market Place, Sales"
     }
 ]
